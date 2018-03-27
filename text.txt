@@ -1,1 +1,8 @@
 jasidyhasuifaso
+$ git clone https://github.com/jakostak/TestGit.git
+
+$ git clone https://github.com/jakostak/TestGit.git
+
+$ git clone https://github.com/jakostak/TestGit.git
+
+$ git clone https://github.com/jakostak/TestGit.git
