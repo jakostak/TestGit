@@ -5,4 +5,8 @@ $ git clone https://github.com/jakostak/TestGit.git
 
 $ git clone https://github.com/jakostak/TestGit.git
 
-$ git clone https://github.com/jakostak/TestGit.git
+$ git clone https://github.com/jakostak/TestGit.gitsadasdasd
+asd
+as
+dasdas
+
